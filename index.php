@@ -3,7 +3,7 @@
 		Búscalo en Cádiz
 	</title>
 	<body>
-		<div>Menú</div>
+		<div>Menú, Inicio, Contacto</div>
 		<div>Contenido de la web</div>
 		<div>Pie</div>
 	</body>
