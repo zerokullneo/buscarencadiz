@@ -5,5 +5,6 @@
 	<body>
 		<div>Menú</div>
 		<div>Contenido de la web</div>
+		<div></div>
 	</body>
 </html>
