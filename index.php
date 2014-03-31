@@ -5,6 +5,6 @@
 	<body>
 		<div>Menú</div>
 		<div>Contenido de la web</div>
-		<div>Píe</div>
+		<div>Pie</div>
 	</body>
 </html>
